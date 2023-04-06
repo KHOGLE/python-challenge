@@ -3,8 +3,7 @@ import os
 import csv
 
 #The from and to of my files
-#path = "python-challenge/PyBank"
-csv_path = os.path.join("budget_data.csv")
+csv_path = os.path.join("Resources", "budget_data.csv")
 txt_path = os.path.join("Analysis", "budget_analysis.txt")
 
 #parameters
@@ -14,7 +13,7 @@ greatest_increase = ["", 0]
 greatest_decrease = ["", 99999999999999999]
 
 #reading the file 
-with open('budget_data.csv', encoding = "utf") as csvfile:
+with open(csv_path, encoding = "utf-8") as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
     csv_header = next(csvfile)
 
