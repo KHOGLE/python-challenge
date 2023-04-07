@@ -10,7 +10,7 @@
 
   *LA Mark helped with the formatting of the if else for the dictionary
   
-  *For the winner code I used https://www.entechin.com/how-to-find-the-max-value-in-a-dictionary-in-python/ to assist
+  *For the "winner" code I used https://www.entechin.com/how-to-find-the-max-value-in-a-dictionary-in-python/ to assist
   
 
 Anything else was a product of piecing together class lessons 
