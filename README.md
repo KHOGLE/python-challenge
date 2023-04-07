@@ -1,5 +1,4 @@
-# python-challenge
-## Mod 3 Challenge
+# Mod 3 Challenge
 ### PyBank Notes
   
   *Tutor Mothanna assisted with the logic of the for loop and parameters for the Average Change and Greatest Increase and Greatest Decrease
